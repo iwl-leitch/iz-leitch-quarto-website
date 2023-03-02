@@ -1,0 +1,9 @@
+---
+title: "Portfolio"
+---
+
+Some of the data science projects that I have completed include 
+- [Analysis of Housing Scores](https://github.com/iwl-leitch/Analysis-of-Housing-Scores), which looks at housing scores in Toronto, ON, and their relationship to the greater Toronto housing situation.
+
+
+

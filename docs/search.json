@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Iz Leitch",
+    "section": "",
+    "text": "Welcome to my website! I am a student at the University of Toronto iSchool.\nI am particularly interested in project management and open to job opportunities."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Some of the data science projects that I have completed include - Analysis of Housing Scores, which looks at housing scores in Toronto, ON, and their relationship to the greater Toronto housing situation."
+  }
+]
